@@ -1,0 +1,1 @@
+* catalogue-deploy can be written for roboshop app, this is CD job and called from reusable workflow.
